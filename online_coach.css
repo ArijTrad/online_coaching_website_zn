@@ -1,0 +1,93 @@
+body{
+  border: 0.1px;
+  border-style:dotted;
+  margin: 150px;
+  border-color: rgb(255, 0, 0);
+  /*height: 3000px;*/
+  /*background-color: blue;*/
+}
+
+
+
+.main-div-1{
+  border: 10px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  height: 130px;
+  background-color: aqua;
+}
+
+.main-p-1{
+  background-color: blue;
+  color: bisque;
+}
+
+.div-2{
+
+
+}
+
+.image-in-div-2{
+width: 300px;
+height: 300px;
+object-fit: cover;
+object-position: left;
+}
+
+.div-3{
+
+}
+
+
+.image-in-div-3{
+  width: 300px;
+  object-fit: cover;
+  object-position: left;
+  vertical-align: middle;
+  display: inline;
+}
+
+
+
+.jsLorem{
+  border: 10px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  background-color: aqua;
+  color: rgb(255, 0, 0);
+  font-size: 40px;
+  font-weight: 600;
+
+
+}
+
+#result{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px;
+  padding: 10px;
+  border-style:dashed;
+  border-width: 0.5px;
+}
+
+#demo , #demo2{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px;
+  padding: 10px;
+  border-style:dashed;
+  border-width: 0.5px;
+}
+
+
+#demo2{
+  background-color: rgb(240, 131, 131);
+
+}
+
+
+
